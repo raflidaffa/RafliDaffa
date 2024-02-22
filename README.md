@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning C++, Java, and Python
 
 <!--
 **raflidaffa/RafliDaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
